@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\bin\Debug\net6.0\05. Division.exe
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\bin\Debug\net6.0\05. Division.deps.json
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\bin\Debug\net6.0\05. Division.runtimeconfig.json
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\bin\Debug\net6.0\05. Division.dll
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\bin\Debug\net6.0\05. Division.pdb
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\obj\Debug\net6.0\05. Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\obj\Debug\net6.0\05. Division.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\obj\Debug\net6.0\05. Division.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\obj\Debug\net6.0\05. Division.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\obj\Debug\net6.0\05. Division.dll
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\obj\Debug\net6.0\refint\05. Division.dll
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\obj\Debug\net6.0\05. Division.pdb
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\obj\Debug\net6.0\05. Division.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Exercise-Loops\05. Division\obj\Debug\net6.0\ref\05. Division.dll

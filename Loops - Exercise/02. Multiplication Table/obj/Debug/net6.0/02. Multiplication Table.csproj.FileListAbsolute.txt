@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.exe
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.deps.json
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.runtimeconfig.json
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.dll
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.pdb
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.dll
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\obj\Debug\net6.0\refint\02. Multiplication Table.dll
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.pdb
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Exercise-Loops\02. Multiplication Table\obj\Debug\net6.0\ref\02. Multiplication Table.dll

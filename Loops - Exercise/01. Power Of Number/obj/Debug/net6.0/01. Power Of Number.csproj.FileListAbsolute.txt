@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.exe
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.deps.json
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.runtimeconfig.json
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.dll
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.pdb
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.dll
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\obj\Debug\net6.0\refint\01. Power Of Number.dll
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.pdb
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Exercise-Loops\01. Power Of Number\obj\Debug\net6.0\ref\01. Power Of Number.dll

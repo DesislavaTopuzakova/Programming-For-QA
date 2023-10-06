@@ -1,0 +1,4 @@
+C:\Users\I353529\source\repos\Exercise-Loops\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Exercise-Loops\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Exercise-Loops\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Exercise-Loops\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache

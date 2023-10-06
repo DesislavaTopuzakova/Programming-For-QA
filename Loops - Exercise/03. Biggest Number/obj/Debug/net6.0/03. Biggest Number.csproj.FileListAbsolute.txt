@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.exe
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.deps.json
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.runtimeconfig.json
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.dll
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.pdb
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.dll
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\obj\Debug\net6.0\refint\03. Biggest Number.dll
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.pdb
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Exercise-Loops\03. Biggest Number\obj\Debug\net6.0\ref\03. Biggest Number.dll
