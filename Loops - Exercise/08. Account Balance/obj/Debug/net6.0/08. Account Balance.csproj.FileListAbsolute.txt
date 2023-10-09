@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\bin\Debug\net6.0\08. Account Balance.exe
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\bin\Debug\net6.0\08. Account Balance.deps.json
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\bin\Debug\net6.0\08. Account Balance.runtimeconfig.json
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\bin\Debug\net6.0\08. Account Balance.dll
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\bin\Debug\net6.0\08. Account Balance.pdb
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\obj\Debug\net6.0\08. Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\obj\Debug\net6.0\08. Account Balance.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\obj\Debug\net6.0\08. Account Balance.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\obj\Debug\net6.0\08. Account Balance.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\obj\Debug\net6.0\08. Account Balance.dll
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\obj\Debug\net6.0\refint\08. Account Balance.dll
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\obj\Debug\net6.0\08. Account Balance.pdb
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\obj\Debug\net6.0\08. Account Balance.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Nested Loops - Lab\08. Account Balance\obj\Debug\net6.0\ref\08. Account Balance.dll
