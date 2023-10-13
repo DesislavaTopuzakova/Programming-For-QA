@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\bin\Debug\net6.0\Demo2.exe
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\bin\Debug\net6.0\Demo2.deps.json
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\bin\Debug\net6.0\Demo2.runtimeconfig.json
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\bin\Debug\net6.0\Demo2.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\bin\Debug\net6.0\Demo2.pdb
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\obj\Debug\net6.0\Demo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\obj\Debug\net6.0\Demo2.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\obj\Debug\net6.0\Demo2.AssemblyInfo.cs
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\obj\Debug\net6.0\Demo2.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\obj\Debug\net6.0\Demo2.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\obj\Debug\net6.0\refint\Demo2.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\obj\Debug\net6.0\Demo2.pdb
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\obj\Debug\net6.0\Demo2.genruntimeconfig.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\Demo2\obj\Debug\net6.0\ref\Demo2.dll

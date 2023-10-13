@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\bin\Debug\net6.0\03. Uniwue PIN Codes.exe
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\bin\Debug\net6.0\03. Uniwue PIN Codes.deps.json
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\bin\Debug\net6.0\03. Uniwue PIN Codes.runtimeconfig.json
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\bin\Debug\net6.0\03. Uniwue PIN Codes.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\bin\Debug\net6.0\03. Uniwue PIN Codes.pdb
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\obj\Debug\net6.0\03. Uniwue PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\obj\Debug\net6.0\03. Uniwue PIN Codes.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\obj\Debug\net6.0\03. Uniwue PIN Codes.AssemblyInfo.cs
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\obj\Debug\net6.0\03. Uniwue PIN Codes.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\obj\Debug\net6.0\03. Uniwue PIN Codes.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\obj\Debug\net6.0\refint\03. Uniwue PIN Codes.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\obj\Debug\net6.0\03. Uniwue PIN Codes.pdb
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\obj\Debug\net6.0\03. Uniwue PIN Codes.genruntimeconfig.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\03. Uniwue PIN Codes\obj\Debug\net6.0\ref\03. Uniwue PIN Codes.dll

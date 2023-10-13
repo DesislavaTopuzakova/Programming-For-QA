@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.exe
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.deps.json
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.runtimeconfig.json
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\bin\Debug\net6.0\02. Magic Numbers.pdb
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.AssemblyInfo.cs
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\obj\Debug\net6.0\refint\02. Magic Numbers.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.pdb
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\obj\Debug\net6.0\02. Magic Numbers.genruntimeconfig.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\02. Magic Numbers\obj\Debug\net6.0\ref\02. Magic Numbers.dll
