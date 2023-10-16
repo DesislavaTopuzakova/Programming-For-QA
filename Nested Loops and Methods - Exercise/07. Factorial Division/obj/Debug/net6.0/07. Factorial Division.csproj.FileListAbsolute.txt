@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.exe
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.deps.json
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.runtimeconfig.json
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\bin\Debug\net6.0\07. Factorial Division.pdb
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.AssemblyInfo.cs
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\obj\Debug\net6.0\refint\07. Factorial Division.dll
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.pdb
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\obj\Debug\net6.0\07. Factorial Division.genruntimeconfig.cache
+C:\Users\I353529\source\repos\NestedLoopsMethods\07. Factorial Division\obj\Debug\net6.0\ref\07. Factorial Division.dll
