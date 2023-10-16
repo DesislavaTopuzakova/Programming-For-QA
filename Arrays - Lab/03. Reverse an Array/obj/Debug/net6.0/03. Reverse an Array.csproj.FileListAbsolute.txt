@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.exe
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.deps.json
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.runtimeconfig.json
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.dll
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\bin\Debug\net6.0\03. Reverse an Array.pdb
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.dll
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\obj\Debug\net6.0\refint\03. Reverse an Array.dll
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.pdb
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\obj\Debug\net6.0\03. Reverse an Array.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Arrays\03. Reverse an Array\obj\Debug\net6.0\ref\03. Reverse an Array.dll

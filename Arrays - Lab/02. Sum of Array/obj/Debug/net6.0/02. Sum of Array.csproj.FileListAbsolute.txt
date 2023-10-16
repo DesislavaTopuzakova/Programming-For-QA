@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\bin\Debug\net6.0\02. Sum of Array.exe
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\bin\Debug\net6.0\02. Sum of Array.deps.json
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\bin\Debug\net6.0\02. Sum of Array.runtimeconfig.json
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\bin\Debug\net6.0\02. Sum of Array.dll
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\bin\Debug\net6.0\02. Sum of Array.pdb
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\obj\Debug\net6.0\02. Sum of Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\obj\Debug\net6.0\02. Sum of Array.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\obj\Debug\net6.0\02. Sum of Array.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\obj\Debug\net6.0\02. Sum of Array.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\obj\Debug\net6.0\02. Sum of Array.dll
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\obj\Debug\net6.0\refint\02. Sum of Array.dll
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\obj\Debug\net6.0\02. Sum of Array.pdb
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\obj\Debug\net6.0\02. Sum of Array.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Arrays\02. Sum of Array\obj\Debug\net6.0\ref\02. Sum of Array.dll

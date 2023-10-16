@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.exe
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.deps.json
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.runtimeconfig.json
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.dll
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\bin\Debug\net6.0\04. Even and Odd Subtraction.pdb
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.dll
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\obj\Debug\net6.0\refint\04. Even and Odd Subtraction.dll
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.pdb
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\obj\Debug\net6.0\04. Even and Odd Subtraction.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Arrays\04. Even and Odd Subtraction\obj\Debug\net6.0\ref\04. Even and Odd Subtraction.dll
