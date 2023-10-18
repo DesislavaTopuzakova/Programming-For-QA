@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.exe
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.deps.json
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.runtimeconfig.json
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.dll
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.pdb
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.dll
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\obj\Debug\net6.0\refint\04. List Manipulation Basics.dll
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.pdb
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Lists-Lab\04. List Manipulation Basics\obj\Debug\net6.0\ref\04. List Manipulation Basics.dll

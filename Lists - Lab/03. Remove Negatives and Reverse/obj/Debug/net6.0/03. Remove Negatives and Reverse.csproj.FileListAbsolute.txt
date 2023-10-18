@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.exe
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.deps.json
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.dll
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\bin\Debug\net6.0\03. Remove Negatives and Reverse.pdb
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.dll
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\refint\03. Remove Negatives and Reverse.dll
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.pdb
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\03. Remove Negatives and Reverse.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Lists-Lab\03. Remove Negatives and Reverse\obj\Debug\net6.0\ref\03. Remove Negatives and Reverse.dll

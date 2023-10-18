@@ -1,0 +1,14 @@
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\bin\Debug\net6.0\01. Change List.exe
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\bin\Debug\net6.0\01. Change List.deps.json
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\bin\Debug\net6.0\01. Change List.runtimeconfig.json
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\bin\Debug\net6.0\01. Change List.dll
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\bin\Debug\net6.0\01. Change List.pdb
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\obj\Debug\net6.0\01. Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\obj\Debug\net6.0\01. Change List.AssemblyInfoInputs.cache
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\obj\Debug\net6.0\01. Change List.AssemblyInfo.cs
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\obj\Debug\net6.0\01. Change List.csproj.CoreCompileInputs.cache
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\obj\Debug\net6.0\01. Change List.dll
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\obj\Debug\net6.0\refint\01. Change List.dll
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\obj\Debug\net6.0\01. Change List.pdb
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\obj\Debug\net6.0\01. Change List.genruntimeconfig.cache
+C:\Users\I353529\source\repos\Lists-Lab\01. Change List\obj\Debug\net6.0\ref\01. Change List.dll
