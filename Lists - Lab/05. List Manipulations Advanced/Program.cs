@@ -1,15 +1,14 @@
-﻿List<int> numbers = Console.ReadLine().Split().Select(int.Parse).ToList();
-string input = Console.ReadLine();
+﻿List<int> numbers = Console.ReadLine().Split(" ").Select(int.Parse).ToList();
 
-while (input != "end")
+string command = Console.ReadLine(); //входни данни: валидна команда или "end"
+
+while (command != "end")
 {
-    string[] commandParts = input.Split(" ");
-    string commandName = commandParts[0];
-    
-    if (commandName == "Contains")
+    if (command.StartsWith("Contains"))
     {
-        int containedNumber = int.Parse(commandParts[1]);
-        if (numbers.Contains(containedNumber))
+        //1. command = "Contains 6".Split(" ") -> ["Contains", "6"]
+        int numberContained = int.Parse(command.Split(" ")[1]); //число, което ще проверявам дали го има в списъка
+        if (numbers.Contains(numberContained))
         {
             Console.WriteLine("Yes");
         }
@@ -18,72 +17,58 @@ while (input != "end")
             Console.WriteLine("No such number");
         }
     }
-    else if (commandName == "PrintEven")
+    else if (command == "PrintEven")
     {
-        for (int index = 1; index <= numbers.Count - 1; index++)
+        //2. command = "PrintEven"
+        foreach(int number in numbers)
         {
-            int currentNumber = numbers[index];
-            if (currentNumber % 2 == 0)
+            if (number % 2 == 0)
             {
-                Console.Write(currentNumber + " ");
+                Console.Write(number + " ");
             }
         }
-        Console.WriteLine();
+        Console.WriteLine(); //нов ред след списъка с четни числа
     }
-    else if (commandName == "PrintOdd")
+    else if (command == "PrintOdd")
     {
-        for (int index = 1; index <= numbers.Count - 1; index++)
+        //3. command = "PrintOdd"
+        foreach (int number in numbers)
         {
-            int currentNumber = numbers[index];
-            if (currentNumber % 2 != 0)
+            if (number % 2 != 0)
             {
-                Console.Write(currentNumber + " ");
+                Console.Write(number + " ");
             }
         }
-        Console.WriteLine();
+        Console.WriteLine(); //нов ред след списъка с нечетнни числа
     }
-    else if (commandName == "GetSum")
+    else if (command == "GetSum")
     {
+        //4. command = "GetSum"
         Console.WriteLine(numbers.Sum());
     }
-    else if (commandName == "Filter")
+    else if (command.StartsWith("Filter"))
     {
-        List<int> filteredNum = new List<int>();
-        for (int index = 1; index <= numbers.Count - 1; index++)
+        //5. command = "Filter >= 3".Split(" ") -> ["Filter", "<", "3"]
+        string condition = command.Split(" ")[1]; //условие: '<', '>', ">=", "<="
+        int number = int.Parse(command.Split(" ")[2]); //число, за което ще изпълняваме условието
+       switch(condition)
         {
-            if (commandParts[1] == ">")
-            {
-                if (numbers[index] > int.Parse(commandParts[2]))
-                {
-                    filteredNum.Add(numbers[index]);
-                }
-            }
-            else if (commandParts[1] == "<")
-            {
-                if (numbers[index] < int.Parse(commandParts[2]))
-                {
-                    filteredNum.Add(numbers[index]);
-                }
-            }
-            if (commandParts[1] == ">=")
-            {
-                if (numbers[index] >= int.Parse(commandParts[2]))
-                {
-                    filteredNum.Add(numbers[index]);
-                }
-            }
-            if (commandParts[1] == "<=")
-            {
-                if (numbers[index] <= int.Parse(commandParts[2]))
-                {
-                    filteredNum.Add(numbers[index]);
-                }
-            }
-        }
-        Console.WriteLine(string.Join(" ", filteredNum));
+            case "<":
+                numbers.RemoveAll(numberInList => numberInList >= number);
+                break;
+            case ">":
+                numbers.RemoveAll(numberInList => numberInList <= number);
+                break;
+            case "<=":
+                numbers.RemoveAll(numberInList => numberInList > number);
+                break;
+            case ">=":
+                numbers.RemoveAll(numberInList => numberInList < number);
+                break;
+        }   
     }
-    input = Console.ReadLine();
 
+    command = Console.ReadLine();
 
 }
 
